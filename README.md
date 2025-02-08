@@ -1,6 +1,6 @@
 # build-your-own-shell
 
-Content for the "Shell" challenge
+cContent for the "Shell" challenge
 
 ## Setup
 
